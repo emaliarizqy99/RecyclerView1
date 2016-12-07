@@ -4,6 +4,7 @@
 ![screenshot1](https://github.com/emaliarizqy99/RecyclerView1/blob/master/SC1.PNG)
 ![screenshot2](https://github.com/emaliarizqy99/RecyclerView1/blob/master/SC2.PNG)
 
+
 ## Identitas
 
 * Nama Lengkap : Emalia Rizqy Nanjarwadi
